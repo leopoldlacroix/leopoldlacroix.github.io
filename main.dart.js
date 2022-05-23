@@ -34827,7 +34827,7 @@ var $async$nS=A.a2(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:n=A.apR(20)
 l=A
 s=2
-return A.X(A.Rk("http://google.com","https://accounts.spotify.com/authorize?client_id=cda1dd80a0bb4e4f9967ac9e27858a30&response_type=code&redirect_uri=&state="+n+"&scope=user-library-read user-follow-read playlist-read-private user-modify-playback-state"),$async$nS)
+return A.X(A.Rk("http://google.com","https://accounts.spotify.com/authorize?client_id=cda1dd80a0bb4e4f9967ac9e27858a30&response_type=code&redirect_uri=https://leopoldlacroix.github.io/callback&state="+n+"&scope=user-library-read user-follow-read playlist-read-private user-modify-playback-state"),$async$nS)
 case 2:m=l.ky(b,0,null).gHB()
 m.h(0)
 p=m.j(0,"state")
@@ -34843,7 +34843,7 @@ var $async$qV=A.a2(function(b,c){if(b===1)return A.Z(c,r)
 while(true)switch(s){case 0:p=B.y.gfe().bQ(u.M)
 o=t.N
 n=A.aA(["Authorization","Basic "+B.e4.gfe().bQ(p)],o,o)
-m=A.aA(["grant_type","authorization_code","code",a,"redirect_uri",""],o,o)
+m=A.aA(["grant_type","authorization_code","code",a,"redirect_uri","https://leopoldlacroix.github.io/callback"],o,o)
 s=2
 return A.X(A.Gs($.aan(),n,m),$async$qV)
 case 2:l=c
