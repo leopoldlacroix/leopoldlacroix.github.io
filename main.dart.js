@@ -7775,7 +7775,7 @@ _.aq$=!1},
 atL(a){var s=null,r=a.b==="",q=a.a===""
 A.PD(A.a(["hasAccessToken: "+String(!r),"hasRefreshToken: "+String(!q)],t.s))
 if(q)return A.jG(A.ack(B.IY,a.ga0I()),s,s)
-if(r)return A.jG(A.ack(B.IW,a.ga1t()),s,s)
+if(r)return A.jG(A.ack(B.IX,a.ga1t()),s,s)
 return A.jG(A.ac3(new A.a6T(),t.sI),s,s)},
 nT:function nT(a){this.a=a},
 Sy:function Sy(){},
@@ -34880,7 +34880,7 @@ return A.a_(null,r)}})
 return A.a0($async$ne,r)}}
 A.nT.prototype={
 P(a,b){var s=null
-return new A.vs(new A.re(B.IX,new A.JU(s,s,1/0,56),s),A.ac3(new A.Sy(),t.sI),s)}}
+return new A.vs(new A.re(B.IW,new A.JU(s,s,1/0,56),s),A.ac3(new A.Sy(),t.sI),s)}}
 A.Sy.prototype={
 $3(a,b,c){return A.atL(b)},
 $C:"$3",
@@ -61623,8 +61623,8 @@ B.I3=new A.o(!0,B.j,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.Gx=new A.o(!0,B.j,null,".SF UI Text",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteCupertino labelSmall",null,null,null)
 B.IU=new A.dk(B.FY,B.HD,B.HQ,B.Iu,B.Hc,B.Gk,B.HK,B.Hf,B.Hn,B.Ic,B.Gu,B.Iz,B.H7,B.I3,B.Gx)
 B.IV=new A.wi(1,"longestLine")
-B.IW=new A.ku("Refresh access token",null,null,null,null,null)
-B.IX=new A.ku("Bands",null,null,null,null,null)
+B.IW=new A.ku("Bands beta 1.0",null,null,null,null,null)
+B.IX=new A.ku("Refresh access token",null,null,null,null,null)
 B.IY=new A.ku("Login to Spotify",null,null,null,null,null)
 B.Lx=new A.Gd(0,"system")
 B.IZ=new A.wj(null)
