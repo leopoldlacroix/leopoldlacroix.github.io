@@ -34901,7 +34901,7 @@ $.Nf()
 j.k6(0)
 i=J
 s=3
-return A.X(A.ww($.ahD(),a.b,1),$async$lp)
+return A.X(A.ww($.ahD(),a.b,-1),$async$lp)
 case 3:p=i.jD(c,new A.WW(),t.TX).cM(0)
 o=t.s
 A.PD(A.a(["Got every artist in: "+A.c6(j.gwv(),0,0).h(0),"Artist list length: "+B.h.h(p.length)],o))
