@@ -34987,7 +34987,7 @@ $.Nr()
 j.ka(0)
 i=J
 s=3
-return A.X(A.wO($.ai3(),a.b,1),$async$lt)
+return A.X(A.wO($.ai3(),a.b,-1),$async$lt)
 case 3:p=i.jH(c,new A.Xa(),t.TX).cN(0)
 o=t.s
 A.PR(A.a(["Got every artist in: "+A.c6(j.gwI(),0,0).h(0),"Artist list length: "+B.h.h(p.length)],o))
@@ -35000,7 +35000,7 @@ break}i=B.b
 h=n
 g=J
 s=7
-return A.X(A.wO(A.jj("https://api.spotify.com/v1/artists/"+p[k].e+"/albums?include_groups=album,single&limit=50",0,null),a.b,-1),$async$lt)
+return A.X(A.wO(A.jj("https://api.spotify.com/v1/artists/"+p[k].e+"/albums?include_groups=album,single&limit=50",0,null),a.b,2),$async$lt)
 case 7:n=i.a2(h,g.jH(c,new A.Xb(),l).cN(0))
 case 5:p.length===m||(0,A.E)(p),++k
 s=4
