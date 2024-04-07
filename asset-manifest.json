@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce2df161.css",
-    "main.js": "/static/js/main.4732ebe0.js",
+    "main.css": "/static/css/main.c9d9d66a.css",
+    "main.js": "/static/js/main.9b4ab8be.js",
     "static/media/CV 2022 Léopold Lacroix.jpg": "/static/media/CV 2022 Léopold Lacroix.bbae34e5f857271e7b1b.jpg",
     "static/media/linkedin.webp": "/static/media/linkedin.841f92affbbc1cf2184b.webp",
     "index.html": "/index.html",
-    "main.ce2df161.css.map": "/static/css/main.ce2df161.css.map",
-    "main.4732ebe0.js.map": "/static/js/main.4732ebe0.js.map"
+    "main.c9d9d66a.css.map": "/static/css/main.c9d9d66a.css.map",
+    "main.9b4ab8be.js.map": "/static/js/main.9b4ab8be.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce2df161.css",
-    "static/js/main.4732ebe0.js"
+    "static/css/main.c9d9d66a.css",
+    "static/js/main.9b4ab8be.js"
   ]
 }
