@@ -1,0 +1,27 @@
+{
+  "short_name": "Léopold Lacroix",
+  "name": "Léopold Lacroix",
+  "description": "Léopold Lacroix, AI Tech Lead in Paris. Résumé and interactive projects.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#07242c",
+  "icons": [
+    {
+      "src": "/favicon-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
